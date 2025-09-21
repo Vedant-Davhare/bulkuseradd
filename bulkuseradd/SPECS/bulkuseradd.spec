@@ -3,7 +3,7 @@ Version:        1.0
 Release:        1%{?dist}
 Summary:        A professional script for bulk user creation and management
 License:        GPLv3
-URL:            https://github.com/gauravbharane
+URL:            https://github.com/Vedant-Davhare
 Source0:        bulkuseradd.sh
 Source1:        bulkuseradd.8
 BuildArch:      noarch
@@ -21,8 +21,7 @@ Features:
 - Secure password configuration with optional expiration policies.
 - Logging support for tracking user creation.
 
-Developed by Gaurav Sidharth Bharane <gauravb1839@gmail.com>.
-Source code and contributions: https://github.com/gauravbharane
+Developed by Vedant Davhare <vedantdavhare@gmail.com>
 
 %prep
 # No special preparation required
