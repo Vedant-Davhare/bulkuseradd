@@ -42,8 +42,3 @@ install -m 644 %{SOURCE1} %{buildroot}/usr/share/man/man8/bulkuseradd.8
 %files
 /usr/local/bin/bulkuseradd
 /usr/share/man/man8/bulkuseradd.8*
-
-%changelog
-* Mon Feb 3 2025 Gaurav Sidharth Bharane <gauravb1839@gmail.com> - 1.0-1
-- Initial release of bulkuseradd with full support for batch user creation and logging.
-
