@@ -34,7 +34,7 @@ sudo chmod +x /usr/local/bin/bulkuseradd
 
 ### 2️⃣ **Install via RPM (for RHEL-based systems)**
 ```bash
-sudo rpm -ivh https://raw.githubusercontent.com/vedantdavhare/bulkuseradd/main/RPMS/noarch/bulkuseradd-1.0-1.fc41.noarch.rpm
+sudo rpm -ivh https://raw.githubusercontent.com/Vedant-Davhare/bulkuseradd/main/RPMS/noarch/bulkuseradd-1.0-1.fc41.noarch.rpm
 ```
 
 ### 3️⃣ **Add to Your YUM Repository**
