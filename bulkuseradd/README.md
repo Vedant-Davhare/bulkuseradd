@@ -26,7 +26,7 @@
 
 ### 1️⃣ **Download & Install Manually**
 ```bash
-git clone https://github.com/Gauravbharane/bulkuseradd.git
+git clone https://github.com/Vedant-Davhare/bulkuseradd.git
 cd bulkuseradd
 sudo cp bulkuseradd /usr/local/bin/
 sudo chmod +x /usr/local/bin/bulkuseradd
@@ -34,7 +34,7 @@ sudo chmod +x /usr/local/bin/bulkuseradd
 
 ### 2️⃣ **Install via RPM (for RHEL-based systems)**
 ```bash
-sudo rpm -ivh https://raw.githubusercontent.com/Gauravbharane/bulkuseradd/main/RPMS/noarch/bulkuseradd-1.0-1.fc41.noarch.rpm
+sudo rpm -ivh https://raw.githubusercontent.com/vedantdavhare/bulkuseradd/main/RPMS/noarch/bulkuseradd-1.0-1.fc41.noarch.rpm
 ```
 
 ### 3️⃣ **Add to Your YUM Repository**
@@ -59,7 +59,7 @@ Add the following lines:
 ```
 [bulkuseradd]
 name=Bulk User Add Repository
-baseurl=https://raw.githubusercontent.com/Gauravbharane/bulkuseradd/main/RPMS/
+baseurl=https://raw.githubusercontent.com/Vedant-Davhare/bulkuseradd/main/RPMS/
 enabled=1
 gpgcheck=0
 ```
@@ -179,9 +179,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 📢 Contact
 If you have any questions or need help, feel free to reach out!
 
-- ✉️ **Email**: gauravb1839@gmail.com  
-- 🌐 **GitHub**: [Gauravbharane](https://github.com/Gauravbharane)  
-- 🐦 **Linkedin**: [@gaurav-bharane](https://linkedin.com/in/gaurav-bharane)  
+- ✉️ **Email**: vedantdavhare@gmail.com  
+- 🌐 **GitHub**: [Vedant-Davhare](https://github.com/Vedant-Davhare)  
+- 🐦 **Linkedin**: [@vedant-Davhare](https://www.linkedin.com/in/vedant-davhare-b61b64227/)  
 
 ---
 
