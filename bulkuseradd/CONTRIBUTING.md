@@ -11,7 +11,7 @@ Thank you for your interest in contributing to **BulkUserAdd**! This project pro
 2. **Clone Your Fork**  
    - Clone the repository to your local machine:
      ```bash
-     git clone https://github.com/gauravbharane/bulkuseradd.git
+     git clone https://github.com/Vedant-Davhare/bulkuseradd.git
      cd bulkuseradd
      ```
 
@@ -61,3 +61,4 @@ If you have any questions, feel free to open a **discussion** or reach out via i
 Be respectful, inclusive, and professional in all interactions.
 
 **Happy Coding! 🎉**
+
